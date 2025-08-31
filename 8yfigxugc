@@ -36,7 +36,6 @@ UITextSizeConstraint.Parent = ImageButton
 UITextSizeConstraint.MaxTextSize = 30
 
 local player = game.Players.LocalPlayer
-
 local function onCharacterAdded(character)
     ScreenGui.Parent = player.PlayerGui
 end
